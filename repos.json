@@ -2,7 +2,7 @@
 "MINI_REPOS" : [
     {
         "url": "https://github.com/microsoft/FASTER.git",
-        "hexsha": "a31b52b29e952827b4ad464674df57d9e230020a"
+        "hexsha": "78aff2b7b742a7012540fcb02635f70e032405af"
     },
     {
         "url": "https://github.com/docker-library/python.git",
